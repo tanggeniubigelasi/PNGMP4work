@@ -1,0 +1,29 @@
+# Python cache / virtual environments
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# Build outputs
+build/
+dist/
+*.spec
+
+# Logs and temporary processing files
+*.log
+*.__watermark_tmp__.*
+
+# Local generated output folders
+*_水印输出/
+水印结果/
+output/
+outputs/
+
+# Editor / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
